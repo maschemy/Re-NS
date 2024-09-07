@@ -1,2 +1,3 @@
 print("아무거나")
-ptint("한화 win")
+print("한화 win")
+print("T1WIN")
